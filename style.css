@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	background-image: url(img/air-conditioning1.png);
+
+	background-repeat: y-repeat;
+	background-size: 100%;
+}
+
+.container {
+	max-width: 70vw;
+	max-height: fit-content;
+	background-color: #5e5f5e;
+	border: 5px solid #666;
+	margin: auto;
+}
+.header {
+	width: 100%;
+	background-color: #000fc0;
+
+	object-fit: contain;
+}
+li {
+	list-style-type: none;
+}
